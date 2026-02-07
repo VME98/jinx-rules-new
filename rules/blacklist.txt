@@ -1177,6 +1177,7 @@ api.iegadp.qq.com
 tuia-adx-web.tuia.cn
 api.qishui.com
 grpc.biliapi.net
+api.bilibili.com
 mdap.mpaas.cn-hangzhou.aliyuncs.com
 apimobile.meituan.com
 zhstatic.zhihu.com
@@ -1213,3 +1214,4 @@ tvax3.sinaimg.cn
 xs.gdt.qq.com
 ipv4.gdt.qq.com
 kadmimage.biz.weibo.com
+netflow-mtop.cainiao.com

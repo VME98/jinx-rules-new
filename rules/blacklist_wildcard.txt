@@ -1,3 +1,6 @@
+mssdk*
+*.ad.xiaomi.com
+*.m.ctrmi.cn
 *.adkwai.com
 *-ad.sm.cn*
 *-ad.video.yximgs.com*

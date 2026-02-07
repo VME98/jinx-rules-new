@@ -36,7 +36,6 @@ alihealth.taobao.com
 h5api.m.taobao.com
 guide-acs.m.taobao.com
 cainiao.com
-netflow-mtop.cainiao.com
 page.cainiao.com
 e2e-mtop.cainiao.com
 nbcps-mtop.cainiao.com
